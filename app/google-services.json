@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "533056577981",
+    "firebase_url": "https://fir-logininkotlin.firebaseio.com",
+    "project_id": "fir-logininkotlin",
+    "storage_bucket": "fir-logininkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533056577981:android:51b96486c8c54c1ad072d4",
+        "android_client_info": {
+          "package_name": "com.example.firebaselogininkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533056577981-560cpbuiuh8v8dgpjcj5bhrfkmg0hbj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaselogininkotlin",
+            "certificate_hash": "e6d0135cb14b4ffccec246aac4003ab3c04de2b0"
+          }
+        },
+        {
+          "client_id": "533056577981-2t20aej1dsbc358vhrekhuin875iclra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEkMSO5d2IhnxPy-T80g6QJo_sApmxxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533056577981-2t20aej1dsbc358vhrekhuin875iclra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
